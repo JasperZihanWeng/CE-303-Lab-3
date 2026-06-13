@@ -1,3 +1,5 @@
+`timescale 1ns/10ps
+
 module MAC_Unit(W, IN, CLK, RSTB, W_R, IN_R, OUT);
 
     //intput outputs 

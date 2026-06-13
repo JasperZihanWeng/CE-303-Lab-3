@@ -1,3 +1,5 @@
+`timescale 1ns/10ps
+
 module accelerator(IN1, IN2, IN3, W1, W2, W3, CLK, RSTB, OUT1, OUT2, OUT3, OUT4, OUT5, OUT6, OUT7, OUT8, OUT9);
 
     //input output decleration
