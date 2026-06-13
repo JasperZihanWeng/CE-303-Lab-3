@@ -41,6 +41,9 @@ module accelerator_tb();
     //change inputs
     initial begin
 
+        CLK = 1'b0;
+        RSTB = 
+    @ (posedge CLK)
         
     end
 
