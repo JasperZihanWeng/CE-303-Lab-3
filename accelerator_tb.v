@@ -58,6 +58,7 @@ module accelerator_tb();
         RSTB = 1'b0;
         #2;
         RSTB = 1'b1;
+        #1;
 
         //clock 1
         IN1 = 8'd1;
